@@ -80,7 +80,7 @@ body {
 }
 
 aside {
-  font-size: 0.65rem;
+  font-size: 0.8rem;
   text-align: center;
 }
 @media only screen and (min-width: 769px) {
@@ -134,7 +134,7 @@ aside p {
   margin-bottom: 0.5rem;
 }
 .mb-2 {
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 .fs-2 {
   font-size: 1.5rem;
